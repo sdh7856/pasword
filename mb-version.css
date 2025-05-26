@@ -1,0 +1,323 @@
+@media(max-width:1200px){
+.display{
+        max-width: 80%;
+        /* background-color: black; */
+        
+    }
+    .dropdown{
+        margin-left: 400px;
+    }
+}
+@media(max-width:768px){
+    .container{
+        width: 80%;
+        margin-left: 200px;
+    }
+    .display{
+        max-width: 65%;
+        /* background-color: black; */
+        margin-top: 20%;
+        
+    }
+    .dropdown{
+        margin-left: 90px;
+        margin-top: 30px;
+    }
+    #sp-1{
+        /* font-size: small */
+        margin-left: 100px;
+    }
+    .btn{
+        margin-left: 85px;
+        /* width: 200px; */
+    }
+}
+@media(max-width:700px){
+        .flex-cont{
+        display: flex;
+        justify-content: center;
+    }
+.display{
+        width: 90%;
+        max-width: 350px;
+        /* max-width: 60%; */
+        /* background-color: green; */
+        /* justify-content: none; */
+        /* margin: 30px; */
+    }
+        .container{
+            /* height:600px ; */
+        width: 60%;
+        margin-left: 120px;
+        /* font-size:80px; */
+        /* background-color: black; */
+    }
+    .display{
+        width: 600px;
+        /* background-color: black; */
+        margin-top: 25%;
+        
+    }
+    .dropdown{
+        margin-left: 90px;
+        margin-top: 20px;
+    }
+    #sp-1{
+        /* font-size: small */
+        margin-left: 100px;
+    }
+    .btn{
+        margin-left: 85px;
+        /* width: 200px; */
+    }
+}
+@media(max-width:650px){
+        .container{
+        width: 100%;
+        /* margin-left: 1550px; */
+        /* font-size:80px; */
+        /* background-color: black; */
+    }
+        .display{
+        width: 100%;
+        /* background-color: black; */
+        margin-top: 25%;
+        /* display: inline-block; */
+        /* justify-content: center; */
+        /* margin-top: 0px; */
+    }
+        .flex-cont{
+        display: flex;
+        justify-content: center;
+    }
+        .display input{
+    border: 0;
+    outline: 0;
+    font-size:23px;
+}
+}
+@media(max-width:615px){
+            .container{
+        width: 100%;
+        /* margin-left: 1550px; */
+        /* background-color: black; */
+    }
+        .display{
+        width: 100%;
+        /* background-color: black; */
+        margin-top: 25%;
+        /* display: inline-block; */
+        /* justify-content: center; */
+        /* margin-top: 0px; */
+    }
+        .flex-cont{
+        display: flex;
+        justify-content: center;
+    }
+        .display input{
+    border: 0;
+    outline: 0;
+    font-size: 22px;
+}
+}
+@media(max-width:560px){
+        .container{
+        width: 100%;
+        margin-left: 80px;
+        /* font-size:80px; */
+        /* background-color: black; */
+    }
+        .display{
+        width: 350px;
+        /* background-color: black; */
+        margin-top: 25%;
+        display: inline-block;
+        justify-content: center;
+        /* margin-top: 0px; */
+    }
+    .flex-cont{
+        display: flex;
+        justify-content: center;
+    }
+        .display input{
+    border: 0;
+    outline: 0;
+    font-size: 21px;
+}
+}
+@media(max-width:500px){
+    #sp-1{
+        margin-left: 70px;
+    }
+    .container h1{
+        font-size: 30px;
+        margin-left: 40px;
+    }
+    .container{
+        width: 100%;
+        margin-left: 50px;
+    }
+    .display{
+        width: 330px;
+        margin-top: 25%;
+        display: inline-block;
+        justify-content: center;
+    }
+    .flex-cont{
+        display: flex;
+        justify-content: center;
+    }
+    .display input{
+        border: 0;
+        outline: 0;
+        font-size: 20px;
+    }
+}
+@media(max-width:430px){
+    #sp-1{
+        margin-left: 0px;
+    }
+    .container h1{
+        font-size: 30px;
+        margin-left: 0px;
+    }
+    .container{
+        width: 100%;
+    }
+    .display{
+        width: 300px;
+        margin-top: 25%;
+    }
+    .dropdown{
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .btn{
+        margin-left: 0px;
+    }
+    .display input{
+        border: 0;
+        outline: 0;
+        font-size: 18px;
+    }
+}
+@media(max-width:430px){
+    #sp-1{
+        margin-left: 0px;
+    }
+    .container h1{
+        font-size: 30px;
+        margin-left: 0px;
+    }
+    .container{
+        width: 100%;
+    }
+    .display{
+        width: 200px;
+        margin-top: 30%;
+    }
+    .dropdown{
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .btn{
+        margin-left: 0px;
+    }
+    .display input{
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    }
+}
+@media(max-width:420px){
+    #sp-1{
+        margin-left: 0px; 
+    }
+    .container h1{
+        font-size: 30px;
+        margin-left: 0px;
+    }
+    .container{
+        width: 100%;
+    }
+    .display{
+        width: 200px;
+        margin-top: 35%;
+    }
+    .dropdown{
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .btn{
+        margin-left: 0px;
+    }
+    .display input{
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    }
+}
+@media(max-width:375px){
+    .container h1{
+        font-size: 30px;
+        margin-left: 0px;
+        width: 300px;
+    }
+    .container{
+        width: 100%;
+        /* margin-left: 50px; */
+        /* background-color: black; */
+
+    }
+    .display{
+        width: 200px;
+        margin-top: 40%;
+        /* display: inline-block; */
+        /* justify-content: center; */
+    }
+    .dropdown{
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .btn{
+        margin-left: 0px;
+    }
+    .display input{
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    }   
+}
+@media(max-width:260px){
+    .container h1{
+        font-size: 30px;
+        margin-left: 0px;
+        width: 300px;
+    }
+    .container{
+        width: 250px;
+        background-color: black;
+        margin-left: 50px;
+
+    }
+    .display{
+        width: 100%;
+        margin-top: 40%;
+    }
+    .dropdown{
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .btn{
+        margin-left: 0px;
+    }
+    .display input{
+        border: 0;
+        outline: 0;
+        font-size: 18px;
+    }   
+    .flex-cont{
+        display: flex;
+        justify-content: center;
+    }
+}
