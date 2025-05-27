@@ -91,5 +91,5 @@ body{
     font-weight: 300;
 
 }
-.dr-content button:hover {background-color: #239962}
-.dropdown:hover .dr-content{display: block;}
+/* .dr-content button:hover {background-color: #239962}
+.dropdown:hover .dr-content{display: block;} */
