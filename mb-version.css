@@ -237,7 +237,7 @@
     .container h1{
         font-size: 30px;
         margin-left: 0px;
-        background-color: black;
+        /* background-color: black; */
         margin-top: 10px;
     }
     .container{
