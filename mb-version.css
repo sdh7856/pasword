@@ -230,12 +230,15 @@
     }
 }
 @media(max-width:420px){
-    #sp-1{
+    #sp-2{
         margin-left: 0px; 
+        border-bottom: none;
     }
     .container h1{
         font-size: 30px;
         margin-left: 0px;
+        /* background-color: black; */
+        margin-top: 10px;
     }
     .container{
         width: 100%;
